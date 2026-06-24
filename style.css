@@ -3,12 +3,12 @@ body {
     line-height:1.6;
     margin: 0;
     padding: 0;
-    background-color: #FFC9C9;
-    color: #333333;
+    background-color: #f4f4f4;
+    color: #333;
 }
 
 header {
-    background: #f74343;
+    background: #4CAF50;
     color: white;
     padding: 20px 0;
     text-align: center;
@@ -25,13 +25,13 @@ section {
     padding: 20px;
     margin: 20px auto;
     max-width: 800px;
-    background: light red;
+    background: white;
     border-radius: 8px;
     box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
 }
 
 h2 {
-    color: #FFDB3D;
+    color: #4CAF50;
 }
 
 .project {
@@ -40,7 +40,7 @@ h2 {
 
 .project h3 {
     margin: 0 0 10px;
-    color: #333333;
+    color: #333;
 }
 
 ul {
@@ -51,7 +51,7 @@ ul {
 footer {
     text-align: center;
     padding: 10px 0;
-    background: #949494
+    background: #333;
     color: white;
     margin-top: 20px;
 }
